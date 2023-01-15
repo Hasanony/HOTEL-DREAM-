@@ -3,7 +3,8 @@
 
 
 Home Page
-![Screenshot_20230103_102106](https://user-images.githubusercontent.com/112980857/210300830-2b7eb1d5-2668-479f-bba6-fc2c41bc18ee.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/112980857/212559718-df32dd0b-6a68-463e-9cbc-9ccec7a1fa92.png)
+
 
 Customer Login
 
@@ -53,7 +54,8 @@ Add Driver
 
 Reception
 
-![Screenshot_20230103_103715](https://user-images.githubusercontent.com/112980857/210301238-6bfce692-1407-409e-bf20-cffda65e4ddc.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/112980857/212559672-185ba1a5-18d1-408b-9405-d93ab1b54a9a.png)
+
 
 Room Details
 
