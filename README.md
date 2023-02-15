@@ -3,21 +3,43 @@
 
 
 Home Page
-![Screenshot (27)](https://user-images.githubusercontent.com/112980857/212559718-df32dd0b-6a68-463e-9cbc-9ccec7a1fa92.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/112980857/219100136-ea194acc-2bad-40ca-9b09-d86efcd98a73.png)
+
+
+About
+
+![Screenshot (30)](https://user-images.githubusercontent.com/112980857/219100304-88b2dd2d-28de-456e-84b0-6db6e9d57624.png)
+
 
 
 Customer Login
 
-![Screenshot_20230103_102137](https://user-images.githubusercontent.com/112980857/210300932-ecefdbfa-8cb9-485b-b4af-28b9e0399c23.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/112980857/219100211-d9476c6a-f6f5-4ca2-9b13-d537dcf796ca.png)
+
 
 
 Register
 
-![Screenshot_20230103_102154](https://user-images.githubusercontent.com/112980857/210300948-250c3b52-6a47-448e-8e20-f8719f223356.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/112980857/219100356-f4afd059-72c9-4bcc-bc3a-70eceff5b593.png)
+
+Customer Page
+
+![Screenshot (33)](https://user-images.githubusercontent.com/112980857/219101013-58bdd59a-2ff3-4329-819a-67d259b2bc81.png)
+
+
 
 Checkin
 
 ![Screenshot_20230103_102223](https://user-images.githubusercontent.com/112980857/210300967-dc4fc79d-0ea3-4be0-9d36-2f4513f98a85.png)
+
+Restrurant
+![Screenshot (37)](https://user-images.githubusercontent.com/112980857/219101193-1bd7bc30-9a8a-4a34-bb1a-8d11e4a875b1.png)
+
+
+Review
+![Screenshot (38)](https://user-images.githubusercontent.com/112980857/219101268-7eb0f9fc-2922-444e-94bf-ea80b297986e.png)
+
+
 
 Helping Bot
 
@@ -25,7 +47,8 @@ Helping Bot
 
 Admin login
 
-![Screenshot_20230103_102315](https://user-images.githubusercontent.com/112980857/210301008-f028071f-3dd6-4f97-bcfc-ca6a054cef78.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/112980857/219100391-12af7789-9da1-4479-aef2-a30ec4f7e3c3.png)
+
 
 Admin Home Page
 
@@ -33,7 +56,8 @@ Admin Home Page
 
 Add Employee
 
-![Screenshot_20230103_103123](https://user-images.githubusercontent.com/112980857/210301061-8c44da4b-00b6-4c96-9eb0-70675f5fbde0.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/112980857/219100450-2f71aee2-2997-4a17-9c2c-e5676f83cd98.png)
+
 
 Add Room
 
@@ -63,7 +87,8 @@ Room Details
 
 Employee info
 
-![Screenshot_20230103_103416](https://user-images.githubusercontent.com/112980857/210301291-b6127d4c-2561-4da5-9ff5-aec9937738ca.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/112980857/219100569-59988c7c-97bf-4e2d-a2db-d804e9395e35.png)
+
 
 Customer Info
 
@@ -87,7 +112,10 @@ Update room Status
 
 Search Room
 
-![Screenshot_20230103_103740](https://user-images.githubusercontent.com/112980857/210301418-bd7b1b08-6a14-466b-94dc-bf72022decc3.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/112980857/219100643-dd274c93-16de-4f6f-ad12-04d3d3de3894.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/112980857/219100680-46f88ea8-df99-4ff2-b74a-e186b0e276f0.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/112980857/219100703-40ac8162-1880-4254-9b2c-42bc3d0ee3a2.png)
+
 
 Search Driver
 
